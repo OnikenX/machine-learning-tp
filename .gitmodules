@@ -1,0 +1,3 @@
+[submodule "Wine-Quality-Dataset"]
+	path = Wine-Quality-Dataset
+	url = https://github.com/shrikant-temburwar/Wine-Quality-Dataset.git
